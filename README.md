@@ -66,9 +66,9 @@ Interactive games, leaderboards 📊, and a buzzing Q&A community 🗨 await you
 
 | 👤 *Team Member*                 | 🎯 *Role*               | 📧 *Email*                                   | 📞 *Contact*   |
 |------------------------------------|---------------------------|-----------------------------------------------|------------------|
-| 🧑‍💻 *Aritra Chatterjee*        | Blockchain Developer      | aritra.chatterjee.ece27@heritageit.edu.in     | 📱 9836635192    |
+| 🧑‍💻 *Aritra Chatterjee*        | Full Stack Developer      | aritra.chatterjee.ece27@heritageit.edu.in     | 📱 9836635192    |
 | 🛠 *Ankit Singh*                | Backend Developer         | sanjaykumar77singh@gmail.com                  | 📱 6289555055    |
-| 🔗 *Aryan Gupta*                 | Web3 Developer            | aryangupta51005@gmail.com                     | 📱 7980372152    |
+| 🔗 *Aryan Gupta*                 | Blockchain Developer            | aryangupta51005@gmail.com                     | 📱 7980372152    |
 | 🎨 *Shubhra Jyoti Bhattacharjee* | Frontend Developer        | shubhrabhattacharjee288@gmail.com             | 📱 7980970371    |  
 
 ---
